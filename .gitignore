@@ -11,4 +11,4 @@
 /log/*
 !/log/.keep
 /tmp
-# /config/twitter_credential.yml
+/config/twitter_credential.yml
